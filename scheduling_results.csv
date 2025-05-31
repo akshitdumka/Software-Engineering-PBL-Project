@@ -1,0 +1,3 @@
+PID,Arrival Time,Burst Time,Priority,Completion Time,Turnaround Time,Waiting Time
+P1,2,6,1,8,6,0
+P2,2,5,1,13,11,6
